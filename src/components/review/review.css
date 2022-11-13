@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP:wght@500&display=swap');
+
+* {
+    font-family: 'IBM Plex Sans JP', sans-serif;
+}
+.customer{
+    font-size: 35px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+.customer1{
+    margin-top: 10rem;
+    width: 100%;
+    height: 30rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://i.postimg.cc/NfbJ6KbC/left.png");
+}
+.reviews{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+.company{
+    font-size: 2vw;
+    float: left;
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.name{
+    font-size: 1.5vw;
+    float: left;
+    margin-left: 3rem;
+}
+.position{
+    font-size: 1.3vw;
+    float: left;
+    margin-left: 3rem; 
+}
+.review{
+    margin-top: 2rem;
+    width: 50%;
+    font-size: 1.2vw;
+    float: left;
+    margin-left: 3rem;
+    font-weight: 300; 
+}
+.image{
+    margin-right: 5rem;
+    margin-top: 4rem;
+    float: right;
+}
+.pic{
+    width: 20%;
+    height: auto;
+    min-width: 10rem;
+    min-height: 14rem;
+}
+.services{
+    margin-left: 3rem;
+    margin-top: 2.7rem;
+}
+.servicename{
+    background-color:whitesmoke;
+    padding: .5rem;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+.customer2{
+    margin-top: 10rem;
+    width: 100%;
+    height: 30rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://i.postimg.cc/ZqzWgpNc/right.png");
+}
+.image2{
+    margin-left: 5rem;
+    margin-top: 4rem;
+    float: left;
+}
+.review2{
+    margin-top: 1rem;
+    width: 50%;
+    font-size: 1.1vw;
+    float: right;
+    font-weight: 300;
+}
+.company2{
+    font-size: 1.5vw;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}
+.name2{
+    font-size: 1vw;
+    float: left;
+    margin-left: 3rem;
+}
+.position2{
+    font-size: 1vw;
+    float: left;
+    margin-left: 3rem; 
+}
+
+
